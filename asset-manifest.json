@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project_with_context_api/static/css/main.c22f4d64.css",
+    "main.js": "/project_with_context_api/static/js/main.91a6a294.js",
+    "index.html": "/project_with_context_api/index.html",
+    "main.c22f4d64.css.map": "/project_with_context_api/static/css/main.c22f4d64.css.map",
+    "main.91a6a294.js.map": "/project_with_context_api/static/js/main.91a6a294.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c22f4d64.css",
+    "static/js/main.91a6a294.js"
+  ]
+}
